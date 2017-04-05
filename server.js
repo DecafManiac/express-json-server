@@ -11,12 +11,12 @@ var profiles = [
     {
         name: 'Sue',
         age: 22,
-        hobbies: ['comp', 'matma']
+        hobbies: ['swimming', 'science']
     },
     {
         name: 'Tom',
         age: 223,
-        hobbies: ['biologia', 'muzyka']
+        hobbies: ['biology', 'music']
     }
 ]
 
